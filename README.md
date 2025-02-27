@@ -1,3 +1,5 @@
+![Blinkit Power BI Dashboard](https://github.com/rajeswar14/BLINKIT-DASHBOARD/blob/main/BLINKIT_DASHBOARD.png)
+
 # Blinkit Dashboard Analysis 
 
 This dashboard provides a comprehensive overview of Blinkit's performance, focusing on sales, items, customer ratings, and outlet distribution.
